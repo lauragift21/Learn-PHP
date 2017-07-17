@@ -15,7 +15,10 @@ You need to have a basic knowledge of HTML and CSS.
   <li><strong>PHP Enthusiast</strong> - http://phpenthusiast.com/</li>
   <li><strong>PHP School</strong> - https://www.phpschool.io/</li>
   <li><strong>Awesome PHP</strong> - https://github.com/ziadoz/awesome-php</li>
-  
+  <li><strong>PHP 101</strong> - https://devzone.zend.com/6/php-101-php-for-the-absolute-beginner/</li>
+  <li><strong>Tutorial Point</strong> -http://www.tutorialspoint.com/php/</li>
+  <li><strong>Hacking With PHP</strong> -http://www.hackingwithphp.com/</li>
+  <li><strong>Code Course PHP</strong> -https://www.codecourse.com/lessons?subject=php</li>
 </ol>
 
 # Advanced
